@@ -1,2 +1,2 @@
 # gdc
-exploring the development of an JavaScript SDK to operate NCI's Genomic Data Commons 
+Exploring team development of a JavaScript SDK to operate NCI's Genomic Data Commons 
